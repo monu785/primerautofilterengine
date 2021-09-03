@@ -46,7 +46,7 @@ For More Details Click Help Button Below..
 @professorforreveal12
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code></ചാനലില്‍ നിങ്ങള്‍ ഉണ്ട് എങ്കിലേ ഈ ബോട്ട് വഴി നിങ്ങള്‍ക്ക് സിനിമ കിട്ടുകയുള്ളൂ അത് കൊണ്ട്‌ ചാനലില്‍ ജോയിൻ ആവുക 😊code>
     
 <b>➥ Creator</b> : <b><i><a href="@professorforreveal12">@professorforreveal12</a></i></b>
 
