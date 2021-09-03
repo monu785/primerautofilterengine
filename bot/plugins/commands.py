@@ -28,14 +28,18 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = f"{file_name} \n ➠ɴᴇᴡ ᴍᴏᴠɪᴇs : @storytimeog
+
+➠Gʀᴏᴜᴘ : @PRIMER_ROOM
+              ,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'D
+                                    r'our channelhttps://t.me/storytimeoGr', url=""
                                 )
                         ]
                     ]
@@ -46,11 +50,11 @@ async def start(bot, update):
             LOGGER(__name__).error(e)
         return
 
-    buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+    buttons = [
+        InlineKeyboardButton('🔰JOIN🔰', url='https://t.me/PRIMER_ROOM'),
+        InlineKeyboardButton('channel ', url ='https://t.me/storytimeoG')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+       
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
